@@ -26,9 +26,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=✨+Clean;⚡+Optimized;🎯+Interview-Ready;🌱+Beginner-Friendly" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=Clean;Optimized;Interview-Ready;Beginner-Friendly" />
 
 </div>
+
 
 ---
 
