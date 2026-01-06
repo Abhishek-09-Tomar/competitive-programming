@@ -6,11 +6,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=C%2B%2B+•+Data+Structures+%26+Algorithms;Competitive+Programming;Open+Source+Learning+Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=C%2B%2B%20-%20Data%20Structures%20and%20Algorithms;Competitive%20Programming;Open%20Source%20Learning%20Journey" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=850&lines=📈+Structured;🚀+Progressive;🎯+Interview-Ready;⚡+CP-Focused" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=850&lines=Structured;Progressive;Interview-Ready;CP-Focused" />
 
 </div>
+
 
 ## About This Repository
 
