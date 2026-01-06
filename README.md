@@ -166,6 +166,6 @@ If this repository helps you:
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=F59E0B&center=true&vCenter=true&width=1000&lines=⚡+Optimized;🧮+Math-Driven;🎯+Interview-Ready;🌍+Open-Source+Friendly" />
 
-🚀 **Happy Coding & Keep Building!**
+😊 **Happy Coding & Keep Building!**
 
 </div>
